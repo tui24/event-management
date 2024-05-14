@@ -1,5 +1,5 @@
 # Project plan
-![project-plan](project-plan.svg)
+![project-plan](project-plan.png)
 # Project WBS
 ![project-plan](WBS.svg)
 # Organizational Structure 
